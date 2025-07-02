@@ -163,4 +163,8 @@ Terminal operations end the stream pipeline and produce a result.
 example-foreach(),collect()
 */
 
+    public static void main(String[] args) {
+
+    }
+
 }

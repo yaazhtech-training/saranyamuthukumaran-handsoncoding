@@ -6,4 +6,9 @@ package com.example.handsonsaranyaMuthukumaran.error;
 *
 * */
 public class Error {
+
+
+
+
+
 }

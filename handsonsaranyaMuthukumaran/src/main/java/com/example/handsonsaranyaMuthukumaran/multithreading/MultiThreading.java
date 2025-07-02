@@ -4,7 +4,8 @@ package com.example.handsonsaranyaMuthukumaran.multithreading;
 *thread-A thread is a lightweight sub-process, the smallest unit of processing.
 * ----------------------------------------------------
 *In Java, a thread always exists in any one of the following states. These states are:
-New- 1. Whenever a new thread is created, it is always in the new state.2
+New- 1. Whenever a new thread is created, it is always in the new state.
+* 2
 Active-When a thread invokes the start() method, it moves from the new state to the active state.
 Blocked / Waiting- Whenever a thread is inactive for a span of time (not permanently) then, either the thread is in the blocked state or is in the waiting state.
 Terminated-A thread reaches the termination state because of the following reasons:

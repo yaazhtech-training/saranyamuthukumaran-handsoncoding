@@ -19,6 +19,9 @@ By using readObject() method which is in ObjectInputStream class, we can achieve
 Constructor of object is never called when an object is deserialized.
 *
 *
+*
+* ---------------------
+*
 * */
 
 
